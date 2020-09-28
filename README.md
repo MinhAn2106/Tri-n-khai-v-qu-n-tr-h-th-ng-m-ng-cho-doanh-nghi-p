@@ -1,0 +1,3 @@
+# Tri-n-khai-v-qu-n-tr-h-th-ng-m-ng-cho-doanh-nghi-p
+Triển khia mô hình mạng firewall tri-homed để bảo vệ hệ thống bên trong với 3 vùng tách biệt: INTERNAL, DMZ, EXTERNAL.
+Sau đó cấu hình các dịch vụ cần thiết cho hệ thống mạng như: DNS, FIREWALL, DHCP, SSH,...
